@@ -1,1 +1,6 @@
 # DataScience
+
+
+# EDIÇÃO REALIZADA EM 10/08/2020 POR GABRIEL LINS
+
+
